@@ -167,6 +167,8 @@
       <module name="notary-demo_test" target="1.8" />
       <module name="notary-raft_main" target="1.8" />
       <module name="notary-raft_test" target="1.8" />
+      <module name="notary-transaction-service_main" target="1.8" />
+      <module name="notary-transaction-service_test" target="1.8" />
       <module name="publish-utils_main" target="1.8" />
       <module name="publish-utils_test" target="1.8" />
       <module name="quasar-hook_main" target="1.8" />
